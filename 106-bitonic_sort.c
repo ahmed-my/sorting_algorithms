@@ -74,7 +74,7 @@ void bitonic_seq(int *array, size_t size, size_t start, size_t seq, char flow)
 }
 
 /**
- * bitonic_sort - function to sort an array of integers in ascending order
+ * bitonic_sort - function to sort an array of integers
  * @array: pointer array of integers.
  * @size: size of the array.
  *
